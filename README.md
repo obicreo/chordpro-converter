@@ -4,6 +4,10 @@ A lightweight browser-based converter for transforming standard aligned
 chord sheets into ChordPro and converting ChordPro back into standard
 chord-over-lyrics text.
 
+## Live Demo
+
+https://obicreo.github.io/chordpro-converter/
+
 ## Features
 
 - Standard text → ChordPro
