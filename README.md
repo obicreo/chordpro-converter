@@ -8,6 +8,12 @@ chord-over-lyrics text.
 
 https://obicreo.github.io/chordpro-converter/
 
+## Used in MeloRep
+
+This converter powers the free online ChordPro Converter on melorep.com: https://melorep.com/tools/chordpro-converter
+
+MeloRep is a setlist, chords and lyrics app for iPhone, iPad and Android, made by ObiCreo: https://melorep.com
+
 ## Features
 
 - Standard text → ChordPro
